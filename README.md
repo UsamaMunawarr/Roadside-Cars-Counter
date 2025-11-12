@@ -1,6 +1,8 @@
 
 
-## 🛣️ Roadside Vehicle Detection and Counting System
+## 🛣️ Roadside Vehicle Detection and Counting System  
+This project implements a **real-time vehicle detection and counting system** using the **YOLOv8 (You Only Look Once)** model and the **SORT (Simple Online and Realtime Tracking)** algorithm.
+It can process both **live camera feeds** and **recorded videos** to detect, track, and count moving vehicles such as cars, buses, trucks, and motorbikes.
 ---
 ### 🎥 Demo
 
